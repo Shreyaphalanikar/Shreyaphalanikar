@@ -1,0 +1,6 @@
+const name="shreya"
+console.log(name)
+const Add=10+2
+console.log("the added value is:",add)
+const subs=10-2
+console.log("the subtracted value is:",subs)
